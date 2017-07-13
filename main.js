@@ -8,4 +8,6 @@ function main() {
     kk = ks;
     kk = ks;
     kk = ks;
+    // Comentarios
+    var a = 20;
 }
