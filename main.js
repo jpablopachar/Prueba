@@ -4,4 +4,5 @@ function main() {
     print("hoallslsk");
     print("jjdjjdjdj");
     print("jjdjjdjdj");
+    print("jjdjjdjdj");
 }
