@@ -7,4 +7,5 @@ function main() {
     print("jjdjjdjdj");
     kk = ks;
     kk = ks;
+    kk = ks;
 }
