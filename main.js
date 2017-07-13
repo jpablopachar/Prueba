@@ -5,4 +5,5 @@ function main() {
     print("jjdjjdjdj");
     print("jjdjjdjdj");
     print("jjdjjdjdj");
+    kk = ks;
 }
